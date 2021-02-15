@@ -1,6 +1,5 @@
 # UFO
-Data analysis project using Javascript notation
-
+Author: Jerome Simmons
 
 ## Overview of Project
 Using a data set of UFO sightings, we've created a html5 webpage and used Javascript notation to build a dynamic table to filter UFO sighting data on the webpage. The table has 5 filters upon which we can review the data, and allows visitors to review UFO accounts from 1/1/2010 - 1/13/2010. Only the visitor can determine whether or not extraterrestrials are real...
