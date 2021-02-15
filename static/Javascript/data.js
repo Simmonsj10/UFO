@@ -997,5 +997,14 @@ var data = [
     shape: "unknown",
     durationMinutes: "4 minutes",
     comments: "Bright orange object&#44 rapid speed and direction changes .."
+  },
+  {
+    datetime: "1/13/2020",
+    city: "san francisco",
+    state: "ca",
+    country: "us",
+    shape: "human like",
+    durationMinutes: "4 minutes",
+    comments: "It could be a crackhead who got a hold of the wrong stuff .."
   }
 ];
